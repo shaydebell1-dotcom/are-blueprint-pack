@@ -1,8 +1,7 @@
-# prod_KAmfquGDTV6uM fulfillment
+# Fulfillment — prod_KAmfquGDTV6uM
 
-File: ARE_Operator_Fulfillment_Pack.pdf (4 pages)
-Shipped 2026-09-30 in operator artifacts.
-
-Attach that PDF on Whop before anyone can check out.
-Enable 30% global affiliates.
-Do not spawn another empty $47 twin.
+File: Autonomous_Revenue_Engine_Blueprint_Pack.pdf (5 pages, shipped 2026-09-30).
+Upload that PDF to the Whop product before any new listing.
+Affiliates: 30% global.
+Preferred plan: $17/mo (or $47 one-time only if monthly is blocked).
+Whop connector was unauthenticated this run — attach by hand.
