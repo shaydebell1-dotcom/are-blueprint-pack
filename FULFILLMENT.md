@@ -1,7 +1,9 @@
-# Fulfillment — prod_KAmfquGDTV6uM
+# Fulfillment
 
-File: Autonomous_Revenue_Engine_Blueprint_Pack.pdf (5 pages, shipped 2026-09-30).
-Upload that PDF to the Whop product before any new listing.
-Affiliates: 30% global.
-Preferred plan: $17/mo (or $47 one-time only if monthly is blocked).
-Whop connector was unauthenticated this run — attach by hand.
+Vault file: Autonomous_Revenue_Engine_Operator_Manual.pdf (shipped locally; attach in Whop before any public plan).
+
+Product: prod_KAmfquGDTV6uM
+Account: biz_OrIBoGlm2Rrz8u
+Preferred plan: $17/month renewal
+Affiliates: 30% global
+Do not publish an empty listing.
